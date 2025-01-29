@@ -1,0 +1,22 @@
+baseURL: http://mikeneedsakidney.ca/
+languageCode: en-ca
+title: Mike needs a kidney
+theme: ananke
+
+menus:
+  main:
+  - name: Home
+    pageRef: /
+    weight: 10
+  - name: My Story
+    pageRef: /story
+    weight: 20
+  - name: Organ Donation
+    pageRef: /donation
+    weight: 30
+
+params:
+  featured_image_class: cover bg-center
+
+  ananke:
+    show_recent_posts: true
