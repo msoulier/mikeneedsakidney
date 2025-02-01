@@ -2,6 +2,9 @@ baseURL: http://mikeneedsakidney.ca/
 languageCode: en-ca
 title: Mike needs a kidney
 theme: ananke
+features:
+  - posts
+contentDir: content
 
 menus:
   main:
@@ -14,6 +17,9 @@ menus:
   - name: Organ Donation
     pageRef: /donation
     weight: 30
+  - name: Blog
+    pageRef: /posts
+    weight: 40
 
 params:
   featured_image_class: cover bg-center
