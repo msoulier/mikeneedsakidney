@@ -23,6 +23,8 @@ menus:
 
 params:
   featured_image_class: cover bg-center
+  custom_css: 
+    - css/custom.css
 
   ananke:
     show_recent_posts: true
