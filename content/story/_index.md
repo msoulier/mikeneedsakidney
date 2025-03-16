@@ -18,6 +18,8 @@ The problem was detected in 2008 and I've been monitored every since. I was hopi
 
 Oh, this is going to be long. Ok, so I was born asthmatic, quite seriously so. I got to know all of the fine people in the Emergency Ward before the age of 5.
 
+{{< figure src="/ox-hugo/jobrant.jpg" alt="jobrant image" title="Joseph Brant" width="533" height="400" >}}
+
 Initially while my mother was desperately looking for help from doctors, they were prescribing Valium to her. Yeah...that happened. Some damage was permanently done to my lungs during this period. Thankfully it was damage that I could compensate for with exercise.
 
 My mother finally found a decent doctor by the name of Dr. Chu, who listened and ordered an X-Ray of my chest, which quickly confirmed my asthma. He then offered to testify if my mother wanted to sue the aforementioned doctors. For the record, she was not interested in revenge.
@@ -30,6 +32,8 @@ From there my health improved. I played baseball. I rode my bicycle **a lot**.
 No health issues from that point on for years. In my late 20s I noticed some muscle tension issues, and chronic fatigue. I didn't think too much of it, and at the time my doctor suggested that Prosac could help with my fatigue. I took a pass on that one.
 
 The end of my 20s were a blur, as I got married, changed jobs and bought a house, moving to Stittsville. Oh, and we had our first child. Y'know, minor life changes like that. I started having issues taking a full, deep breath. And I started having some chronic muscle pain in my right shoulder. The investigation began.
+
+{{< figure src="/ox-hugo/mike_on_boat.jpg" alt="mike on a boat" title="Mike on Boat" width="400" height="533" >}}
 
 I had joint issues in my ankles, but I was still regularly hiking, biking, etc., without any real problems. Our focus was mostly on our kids, as by then we had a pair of them (2004).
 
