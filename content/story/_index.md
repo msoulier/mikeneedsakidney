@@ -57,6 +57,10 @@ But by then, things were starting to get harder.
 
 In 2008 on a routine physical my doctor found protein in my urine. I was referred to the Chronic Kidney Disease clinic at the Ottawa Hospital, Riverside Campus. I started seeing a doctor named Dr. Bell, a nice guy who did what he could to monitor the situation and attempt to slow my fall. I had an ultrasound, which failed to find my left kidney for some reason. This prevented Dr. Bell from biopsying my kidneys as they used ultrasound to guide the needle and he did not want to stick a needle into my good kidney. He ordered a renal scan, which showed that my kidneys were handling load at 30%/70% for left/right kidneys respectively. Dr. Bell's theory on my disease was called [VUR](https://www.kidney.org/kidney-topics/vesicoureteral-reflux-vur-infants-children), essentially an undiagnosed urinary tract infection when I was an infant. I am not a doctor, nor a Nephroligist. My only complaint was not being able to confirm that as my disease. I was told that the evidence supported this, and I accepted it.
 
+{{< figure src="/ox-hugo/mike_in_vancouver.jpg" alt="mike in vancouver" title="Mike in Vancouver" width="501" height="400" >}}
+
+I had joint issues in my ankles, but I was still regularly hiking, biking, etc., without any real problems. Our focus was mostly on our kids, as by then we had a pair of them (since 2004).
+
 At this point, I saw the clinic every year, and then every six months, and then every four months, and so on, as my decline continued and my kidney function plummeted. The clinic predicted that I had about a year of function left. That was at least five years ago. But, my decline did continue, just more slowly as I overhauled my diet to try to slow my decline in the only ways that I knew. I hit the gym, and tried to overhaul my health. I had limited success, most of which was my fault. My priorities needed an adjustment, and I was running out of time. I was very good at sticking my head in the sand and pretending that nothing was wrong. But ignoring the problem did not make it go away.
 
 
