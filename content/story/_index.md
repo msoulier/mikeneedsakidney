@@ -1,7 +1,9 @@
 ---
 title: "My story"
-author: "Michael P. Soulier"
+author: ["Michael P. Soulier"]
 description: "Wow, you must be bored"
+slug: "my-story"
+draft: false
 featured_image: "images/stittsville_fall.jpg"
 ---
 
