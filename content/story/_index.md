@@ -1,10 +1,9 @@
-+++
-title = "My story"
-author = ["Michael P. Soulier"]
-description = "Wow, you must be bored"
-featured_image = "images/stittsville_fall.jpg"
-draft = false
-+++
+---
+title: "My story"
+author: "Michael P. Soulier"
+description: "Wow, you must be bored"
+featured_image: "images/stittsville_fall.jpg"
+---
 
 ## TL;DR {#tl-dr}
 
