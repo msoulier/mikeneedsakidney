@@ -1,5 +1,5 @@
 ---
-title: "The Blog"
+title: ""
 description: "Do you really want to know my opinion?"
 featured_image: "images/stittsville_sunset.jpg"
 ---

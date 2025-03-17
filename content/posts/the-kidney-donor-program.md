@@ -1,5 +1,5 @@
 ---
-title: "The Blog"
+title: "Organ donation"
 description: "Do you really want to know my opinion?"
 featured_image: "images/stittsville_sunset.jpg"
 lastmod: 2025-02-01T15:15:00-05:00
