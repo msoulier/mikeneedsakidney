@@ -18,7 +18,7 @@ The problem was detected in 2008 and I've been monitored every since. I was hopi
 
 Oh, this is going to be long. Ok, so I was born asthmatic, quite seriously so. I got to know all of the fine people in the Emergency Ward before the age of 5.
 
-{{< figure src="/ox-hugo/jobrant.jpg" alt="jobrant image" title="Joseph Brant" width="533" height="400" >}}
+{{< figure src="/ox-hugo/jobrant.jpg" alt="jobrant image" title="Joseph Brant" >}}
 
 Initially while my mother was desperately looking for help from doctors, they were prescribing Valium to her. Yeah...that happened. Some damage was permanently done to my lungs during this period. Thankfully it was damage that I could compensate for with exercise.
 
@@ -33,7 +33,7 @@ No health issues from that point on for years. In my late 20s I noticed some mus
 
 The end of my 20s were a blur, as I got married, changed jobs and bought a house, moving to Stittsville. Oh, and we had our first child. Y'know, minor life changes like that. I started having issues taking a full, deep breath. And I started having some chronic muscle pain in my right shoulder. The investigation began.
 
-{{< figure src="/ox-hugo/mike_on_boat.jpg" alt="mike on a boat" title="Mike on Boat" width="400" height="533" >}}
+{{< figure src="/ox-hugo/mike_on_boat.jpg" alt="mike on a boat" title="Mike on Boat" >}}
 
 I had joint issues in my ankles, but I was still regularly hiking, biking, etc., without any real problems. Our focus was mostly on our kids, as by then we had a pair of them (2004).
 
@@ -57,7 +57,7 @@ But by then, things were starting to get harder.
 
 In 2008 on a routine physical my doctor found protein in my urine. I was referred to the Chronic Kidney Disease clinic at the Ottawa Hospital, Riverside Campus. I started seeing a doctor named Dr. Bell, a nice guy who did what he could to monitor the situation and attempt to slow my fall. I had an ultrasound, which failed to find my left kidney for some reason. This prevented Dr. Bell from biopsying my kidneys as they used ultrasound to guide the needle and he did not want to stick a needle into my good kidney. He ordered a renal scan, which showed that my kidneys were handling load at 30%/70% for left/right kidneys respectively. Dr. Bell's theory on my disease was called [VUR](https://www.kidney.org/kidney-topics/vesicoureteral-reflux-vur-infants-children), essentially an undiagnosed urinary tract infection when I was an infant. I am not a doctor, nor a Nephroligist. My only complaint was not being able to confirm that as my disease. I was told that the evidence supported this, and I accepted it.
 
-{{< figure src="/ox-hugo/mike_in_vancouver.jpg" alt="mike in vancouver" title="Mike in Vancouver" width="501" height="400" >}}
+{{< figure src="/ox-hugo/mike_in_vancouver.jpg" alt="mike in vancouver" title="Mike in Vancouver" >}}
 
 I had joint issues in my ankles, but I was still regularly hiking, biking, etc., without any real problems. Our focus was mostly on our kids, as by then we had a pair of them (since 2004).
 
