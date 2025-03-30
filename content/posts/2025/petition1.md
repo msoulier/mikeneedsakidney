@@ -3,7 +3,7 @@ title: "A damn good cause"
 description: "A petition for Nash"
 # featured_image: "images/stittsville_sunset.jpg"
 lastmod: 2025-03-30T16:16:00-04:00
-tags: organ donation
+tags: donation
 draft: false
 weight: 2025
 ---
