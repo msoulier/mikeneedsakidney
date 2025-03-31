@@ -2,36 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mikeneedsakidney.ca/posts/2025/petition1/</loc>
+    <loc>http://localhost:41033/posts/2025/petition2/</loc>
+    <lastmod>2025-03-31T08:45:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41033/posts/2025/petition1/</loc>
     <lastmod>2025-03-30T16:16:00-04:00</lastmod>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/posts/2025/peritoneal-dialysis-consult-done/</loc>
+    <loc>http://localhost:41033/posts/2025/peritoneal-dialysis-consult-done/</loc>
     <lastmod>2025-03-17T14:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/posts/2025/peritoneal-dialysis-consult/</loc>
+    <loc>http://localhost:41033/posts/2025/peritoneal-dialysis-consult/</loc>
     <lastmod>2025-03-17T09:15:00-04:00</lastmod>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/posts/</loc>
-    <lastmod>2025-03-30T16:16:00-04:00</lastmod>
+    <loc>http://localhost:41033/posts/the-kidney-donor-program/</loc>
+    <lastmod>2025-02-01T15:15:00-05:00</lastmod>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/tags/donation/</loc>
-    <lastmod>2025-03-30T16:16:00-04:00</lastmod>
+    <loc>http://localhost:41033/posts/</loc>
+    <lastmod>2025-03-31T08:45:00-04:00</lastmod>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/</loc>
-    <lastmod>2025-03-30T16:16:00-04:00</lastmod>
+    <loc>http://localhost:41033/tags/donation/</loc>
+    <lastmod>2025-03-31T08:45:00-04:00</lastmod>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/tags/</loc>
-    <lastmod>2025-03-30T16:16:00-04:00</lastmod>
+    <loc>http://localhost:41033/</loc>
+    <lastmod>2025-03-31T08:45:00-04:00</lastmod>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/tags/dialysis/</loc>
+    <loc>http://localhost:41033/tags/</loc>
+    <lastmod>2025-03-31T08:45:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:41033/tags/dialysis/</loc>
     <lastmod>2025-03-17T14:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/categories/</loc>
+    <loc>http://localhost:41033/categories/</loc>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/contact/</loc>
+    <loc>http://localhost:41033/contact/</loc>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/story/</loc>
+    <loc>http://localhost:41033/story/</loc>
   </url><url>
-    <loc>http://mikeneedsakidney.ca/donation/</loc>
+    <loc>http://localhost:41033/donation/</loc>
   </url>
 </urlset>

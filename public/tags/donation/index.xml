@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Donation on Mike needs a kidney</title>
-    <link>http://mikeneedsakidney.ca/tags/donation/</link>
+    <link>http://localhost:41033/tags/donation/</link>
     <description>Recent content in Donation on Mike needs a kidney</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 30 Mar 2025 16:16:00 -0400</lastBuildDate>
-    <atom:link href="http://mikeneedsakidney.ca/tags/donation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Mar 2025 08:45:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:41033/tags/donation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helping by default</title>
+      <link>http://localhost:41033/posts/2025/petition2/</link>
+      <pubDate>Mon, 31 Mar 2025 08:45:00 -0400</pubDate>
+      <guid>http://localhost:41033/posts/2025/petition2/</guid>
+      <description>&lt;p&gt;More on change.org, people in need that are way ahead of what I had planned to start.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.change.org/p/save-lives-with-opt-out-aka-implied-consent-organ-donation?source_location=search&#34;&gt;This one&lt;/a&gt;&#xA;is about trying to improve the situation in all of Saskatchewan by implementing an opt-out system for organ donation, which would increase the availability of vital organs for patients across the province, saving a lot of lives. Not to mention improving the quality of those lives.&lt;/p&gt;&#xA;&lt;p&gt;I want to see the same thing happen in Ontario. It&amp;rsquo;s a no-brainer for me. I haven&amp;rsquo;t a clue why in 2025 this has not been done.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A damn good cause</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/petition1/</link>
+      <link>http://localhost:41033/posts/2025/petition1/</link>
       <pubDate>Sun, 30 Mar 2025 16:16:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/petition1/</guid>
+      <guid>http://localhost:41033/posts/2025/petition1/</guid>
       <description>&lt;p&gt;I was looking at change.org, thinking about creating a petition to make organ donation in Ontario opt-out instead of opt-in.&#xA;Seems that many people have beaten me to it.&lt;/p&gt;&#xA;&lt;p&gt;I will post what I found in a series of posts, starting with&#xA;&lt;a href=&#34;https://www.change.org/p/gptaylormrd-opt-in-to-opt-out-policy-for-organ-donation?signed=true&#34;&gt;this one&lt;/a&gt;&#xA;for little Nash.&lt;/p&gt;&#xA;&lt;p&gt;If you want to do some good, consider looking at some or all of these. They are all great ideas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organ donation</title>
+      <link>http://localhost:41033/posts/the-kidney-donor-program/</link>
+      <pubDate>Sat, 01 Feb 2025 15:15:00 -0500</pubDate>
+      <guid>http://localhost:41033/posts/the-kidney-donor-program/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:41033/images/kidney_donor_program.jpg&#34;&#xA;    alt=&#34;kidney donor program&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Kidney donor program&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
   </channel>
 </rss>
