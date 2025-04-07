@@ -35,6 +35,7 @@ concerned about kidney failure and started to talk seriously about me needing a
 transplant.
 
 I'm trying to use this site to raise awareness about kidney disease, and 
-organ donation in general. And lets be honest, I wouldn't mind making long-term use of a body part, if anyone was so inclined.
+organ donation in general. And possibly get some help for myself, if anyone
+was so inclined.
 
 Thanks for stopping by.
