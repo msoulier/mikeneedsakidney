@@ -5,6 +5,7 @@ theme: ananke
 features:
   - posts
 contentDir: content
+resourceDir: ../resources
 
 menus:
   main:
@@ -22,7 +23,10 @@ menus:
     weight: 40
 
 params:
+  description: This is a description
   featured_image_class: cover bg-center
+#  cover_dimming_class: bg-blue-40
+  background_color_class: bg-black
   custom_css: 
     - css/custom.css
 

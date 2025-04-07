@@ -1,7 +1,7 @@
 ---
-title: "Hello"
-description: "Sadly, it's what it sounds like"
-featured_image: "images/mike.jpg"
+title: Thank you
+description: The life you save...could be mine
+featured_image: "images/gatineau_fall.jpg"
 ---
 Hello! I appreciate your time. I know I'm just some guy living in Stittsville,
 Ontario, so thanks. 
