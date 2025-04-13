@@ -38,4 +38,4 @@ I'm trying to use this site to raise awareness about kidney disease, and
 organ donation in general. And possibly get some help for myself, if anyone
 was so inclined.
 
-Thanks for stopping by.
+Thanks for stopping by. See the [Donation](/donation/) page if you'd like to help.
