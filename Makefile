@@ -11,7 +11,7 @@ build:
 	hugo
 
 serve:
-	hugo serve -D --watch --bind=0.0.0.0 --baseURL=http://$(INTERFACE) --port=8000
+	hugo serve --watch --buildDrafts --bind=0.0.0.0 --baseURL=http://$(INTERFACE) --port=8000 --logLevel debug
 
 push: build
 	rsync -vaz public/ nick:/var/www/mikeneedsakidney
