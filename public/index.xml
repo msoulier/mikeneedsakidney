@@ -2,73 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thank you on Mike needs a kidney</title>
-    <link>http://mikeneedsakidney.ca/</link>
+    <link>http://localhost:39709/</link>
     <description>Recent content in Thank you on Mike needs a kidney</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 02 Jun 2025 17:19:00 -0400</lastBuildDate>
-    <atom:link href="http://mikeneedsakidney.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 14:10:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:39709/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sumi&#39;s story</title>
+      <link>http://localhost:39709/posts/2025/sumis_story/</link>
+      <pubDate>Sat, 28 Jun 2025 14:10:00 -0400</pubDate>
+      <guid>http://localhost:39709/posts/2025/sumis_story/</guid>
+      <description>&lt;p&gt;So, I asked an old curling buddy (yes, those exist) about his experiences with&#xA;kidney disease. He&amp;rsquo;s farther along than I am, having just had a transplant (yay!),&#xA;so clearly I can learn from his experience.&lt;/p&gt;&#xA;&lt;p&gt;He has gratiously permitted me to post this. I quote:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hi Mike and Maria,&lt;/p&gt;&#xA;&lt;p&gt;Feel free to use anything I&amp;rsquo;ve written in your blog posts or on Facebook. All&#xA;dates are rough, I am using My chart, but some of the data is really buried and&#xA;there isn&amp;rsquo;t a really good search engine on Mychart.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cars and Organ Donors</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/cruisin/</link>
+      <link>http://localhost:39709/posts/2025/cruisin/</link>
       <pubDate>Mon, 02 Jun 2025 17:19:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/cruisin/</guid>
+      <guid>http://localhost:39709/posts/2025/cruisin/</guid>
       <description>&lt;p&gt;I just came across &lt;a href=&#34;https://www.sudbury.com/local-news/second-cruisin-for-organ-donors-gets-bigger-and-better-10746081&#34;&gt;this story&lt;/a&gt; from the&#xA;Sudbury.com news.&lt;/p&gt;&#xA;&lt;p&gt;I like the &amp;lsquo;Vette.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The car show featured premium cars as well as live music, an ice cream truck,&#xA;food vendors and a kid zone. Given the name, the event also featured a booth&#xA;where people could sign up to be organ donors.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;And I love that. Nicely done people.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Peritoneal Dialysis Catheter surgery</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/peritoneal-dialysis-surgery/</link>
+      <link>http://localhost:39709/posts/2025/peritoneal-dialysis-surgery/</link>
       <pubDate>Tue, 13 May 2025 09:05:03 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/peritoneal-dialysis-surgery/</guid>
+      <guid>http://localhost:39709/posts/2025/peritoneal-dialysis-surgery/</guid>
       <description>&lt;p&gt;So, last Wednesday I dropped by the Riverside Campus of the Ottawa Hospital at the crack of dawn to have&#xA;&lt;a href=&#34;https://www.azuravascularcare.com/infodialysisaccess/what-you-should-know-about-peritoneal-dialysis-catheter-placement/&#34;&gt;Peritoneal Dialysis Catheters&lt;/a&gt;&#xA;surgically implanted in my body. Y&amp;rsquo;know, I could have just stayed home and worked remotely, but I thought it would be&#xA;fun to get some good drugs and have some holes cut into me.&lt;/p&gt;&#xA;&lt;p&gt;Seriously though, my kidney function is dropping (somewhere around an&#xA;&lt;a href=&#34;https://www.kidney.org/kidney-topics/estimated-glomerular-filtration-rate-egfr&#34;&gt;eGFR&lt;/a&gt;&#xA;of 15 and on the way down) and my doctors think it&amp;rsquo;s a good idea to prepare. I really can&amp;rsquo;t argue, even though I have&#xA;been dreading being at this point from about 2008 onwards. Side note: I have learned from experience that sticking my&#xA;head in the sand and hoping that a medical condition will simply go away does &lt;em&gt;not&lt;/em&gt; work. Who knew?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Look, we started a petition</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/our_petition/</link>
+      <link>http://localhost:39709/posts/2025/our_petition/</link>
       <pubDate>Wed, 16 Apr 2025 13:50:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/our_petition/</guid>
+      <guid>http://localhost:39709/posts/2025/our_petition/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://chng.it/pB6N8rRQQw&#34;&gt;This petition&lt;/a&gt;&#xA;was started by my lovely wife in an effort to bring an updated petition to the&#xA;Premier of Ontario, in this case, &lt;a href=&#34;https://www.ola.org/en/members/all/doug-ford&#34;&gt;Doug Ford&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;If you are living in the province of Ontario, please consider signing this petition. The life you save could be your own.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;re done with petitions now, right?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Helping all Canadians</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/petition3/</link>
+      <link>http://localhost:39709/posts/2025/petition3/</link>
       <pubDate>Sun, 13 Apr 2025 17:19:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/petition3/</guid>
+      <guid>http://localhost:39709/posts/2025/petition3/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.change.org/p/prime-minister-justin-trudeau-canada-needs-to-adopt-an-opt-out-organ-donation-policy?source_location=search&#34;&gt;This petition&lt;/a&gt;&#xA;extends the idea of opt-out organ donation to the federal level. With that they could promote the concept to all provinces in this country, and save a lot of lives.&lt;/p&gt;&#xA;&lt;p&gt;I find it very difficult to explain a concept that I find completely obvious, so I don&amp;rsquo;t know what more to say about this one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Helping by default</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/petition2/</link>
+      <link>http://localhost:39709/posts/2025/petition2/</link>
       <pubDate>Mon, 31 Mar 2025 08:45:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/petition2/</guid>
+      <guid>http://localhost:39709/posts/2025/petition2/</guid>
       <description>&lt;p&gt;More on change.org, people in need that are way ahead of what I had planned to start.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.change.org/p/save-lives-with-opt-out-aka-implied-consent-organ-donation?source_location=search&#34;&gt;This one&lt;/a&gt;&#xA;is about trying to improve the situation in all of Saskatchewan by implementing an opt-out system for organ donation, which would increase the availability of vital organs for patients across the province, saving a lot of lives. Not to mention improving the quality of those lives.&lt;/p&gt;&#xA;&lt;p&gt;I want to see the same thing happen in Ontario. It&amp;rsquo;s a no-brainer for me. I haven&amp;rsquo;t a clue why in 2025 this has not been done.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A damn good cause</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/petition1/</link>
+      <link>http://localhost:39709/posts/2025/petition1/</link>
       <pubDate>Sun, 30 Mar 2025 16:16:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/petition1/</guid>
+      <guid>http://localhost:39709/posts/2025/petition1/</guid>
       <description>&lt;p&gt;I was looking at change.org, thinking about creating a petition to make organ donation in Ontario opt-out instead of opt-in.&#xA;Seems that many people have beaten me to it.&lt;/p&gt;&#xA;&lt;p&gt;I will post what I found in a series of posts, starting with&#xA;&lt;a href=&#34;https://www.change.org/p/gptaylormrd-opt-in-to-opt-out-policy-for-organ-donation?signed=true&#34;&gt;this one&lt;/a&gt;&#xA;for little Nash.&lt;/p&gt;&#xA;&lt;p&gt;If you want to do some good, consider looking at some or all of these. They are all great ideas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Peritoneal Dialysis Consult Finished</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/peritoneal-dialysis-consult-done/</link>
+      <link>http://localhost:39709/posts/2025/peritoneal-dialysis-consult-done/</link>
       <pubDate>Mon, 17 Mar 2025 14:00:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/peritoneal-dialysis-consult-done/</guid>
+      <guid>http://localhost:39709/posts/2025/peritoneal-dialysis-consult-done/</guid>
       <description>&lt;p&gt;So, this morning I went to consult with a surgeon about Peritoneal Dialysis,&#xA;specifically having PD catheters surgically implanted in preparation for&#xA;Dialysis.&lt;/p&gt;&#xA;&lt;p&gt;Ye Gods, I don&amp;rsquo;t want to do this. But I don&amp;rsquo;t feel like dying yet, so I guess I have to.&lt;/p&gt;&#xA;&lt;p&gt;Surgery is now scheduled for early May. When I was asked if that was ok, I did respond honestly and said that, &amp;ldquo;none of this is ok and I&amp;rsquo;m barely holding it together&amp;rdquo;, but that&amp;rsquo;s not helpful so I followed up with, &amp;ldquo;sure&amp;rdquo;. I&amp;rsquo;m a nice guy that way.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Peritoneal Dialysis Consult</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/peritoneal-dialysis-consult/</link>
+      <link>http://localhost:39709/posts/2025/peritoneal-dialysis-consult/</link>
       <pubDate>Mon, 17 Mar 2025 09:15:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/peritoneal-dialysis-consult/</guid>
+      <guid>http://localhost:39709/posts/2025/peritoneal-dialysis-consult/</guid>
       <description>&lt;p&gt;So, this morning I go to consult with a surgeon about Peritoneal Dialysis,&#xA;specifically having PD catheters surgically implanted in preparation for&#xA;Dialysis. I had hoped that this day would never come. Now that it&amp;rsquo;s here, I am&#xA;feeling a wide range of conflicting emotions.&lt;/p&gt;&#xA;&lt;p&gt;Did I do enough to prevent getting here?&lt;/p&gt;&#xA;&lt;p&gt;Did I push alternate theories, did we really find the cause, and is there still&#xA;some larger problem looming?&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Organ donation</title>
+      <link>http://localhost:39709/posts/the-kidney-donor-program/</link>
+      <pubDate>Sat, 01 Feb 2025 15:15:00 -0500</pubDate>
+      <guid>http://localhost:39709/posts/the-kidney-donor-program/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:39709/images/kidney_donor_program.jpg&#34;&#xA;    alt=&#34;kidney donor program&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Kidney donor program&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
       <title>Contact</title>
-      <link>http://mikeneedsakidney.ca/contact/</link>
+      <link>http://localhost:39709/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://mikeneedsakidney.ca/contact/</guid>
+      <guid>http://localhost:39709/contact/</guid>
       <description>&lt;p&gt;If you would like more information from me, or are interested in helping, then I would love to hear from you. Feel free to email me at&#xA;&lt;a href=&#34;mailto:kidney@digitaltorque.ca&#34;&gt;kidney@digitaltorque.ca&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

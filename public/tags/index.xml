@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mike needs a kidney</title>
-    <link>http://mikeneedsakidney.ca/tags/</link>
+    <link>http://localhost:39709/tags/</link>
     <description>Recent content in Tags on Mike needs a kidney</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 02 Jun 2025 17:19:00 -0400</lastBuildDate>
-    <atom:link href="http://mikeneedsakidney.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jun 2025 14:10:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:39709/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transplant</title>
+      <link>http://localhost:39709/tags/transplant/</link>
+      <pubDate>Sat, 28 Jun 2025 14:10:00 -0400</pubDate>
+      <guid>http://localhost:39709/tags/transplant/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Donation</title>
-      <link>http://mikeneedsakidney.ca/tags/donation/</link>
+      <link>http://localhost:39709/tags/donation/</link>
       <pubDate>Mon, 02 Jun 2025 17:19:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/tags/donation/</guid>
+      <guid>http://localhost:39709/tags/donation/</guid>
       <description></description>
     </item>
     <item>
       <title>Dialysis</title>
-      <link>http://mikeneedsakidney.ca/tags/dialysis/</link>
+      <link>http://localhost:39709/tags/dialysis/</link>
       <pubDate>Tue, 13 May 2025 09:05:03 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/tags/dialysis/</guid>
+      <guid>http://localhost:39709/tags/dialysis/</guid>
       <description></description>
     </item>
   </channel>
