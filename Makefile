@@ -1,5 +1,5 @@
 .PHONY = help build serve push
-INTERFACE = 172.28.221.222
+INTERFACE = 127.0.0.1
 
 help:
 	@echo "Targets:"

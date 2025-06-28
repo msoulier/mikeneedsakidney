@@ -29,7 +29,7 @@ family.
 
 I didn’t find out I had kidney disease until 2008, when the doctor noticed
 something during a routine physical. Since then, I’ve been working to delay the
-disease progression through a combination of diet and exercise.  It was working
+disease's progression through a combination of diet and exercise.  It was working
 until this past year when my numbers dropped low enough that doctors were
 concerned about kidney failure and started to talk seriously about me needing a
 transplant.
