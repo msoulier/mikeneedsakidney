@@ -1,7 +1,6 @@
 ---
 title: "Sumi's story"
 description: "With a happy ending"
-#featured_image: "images/sumi.jpg"
 lastmod: 2025-06-28T14:10:00-04:00
 tags: transplant
 draft: false

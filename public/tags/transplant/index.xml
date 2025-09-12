@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transplant on Mike needs a kidney</title>
-    <link>http://mikeneedsakidney.ca/tags/transplant/</link>
+    <link>http://0.0.0.0:8000/tags/transplant/</link>
     <description>Recent content in Transplant on Mike needs a kidney</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 28 Jun 2025 14:10:00 -0400</lastBuildDate>
-    <atom:link href="http://mikeneedsakidney.ca/tags/transplant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 20:45:53 -0400</lastBuildDate>
+    <atom:link href="http://0.0.0.0:8000/tags/transplant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming soon</title>
+      <link>http://0.0.0.0:8000/posts/2025/coming_soon/</link>
+      <pubDate>Thu, 11 Sep 2025 20:45:53 -0400</pubDate>
+      <guid>http://0.0.0.0:8000/posts/2025/coming_soon/</guid>
+      <description>&lt;p&gt;So, it would seem that my hoping, and occasional praying, for my condition to turn around was, admittedly, a waste of time.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sumi&#39;s story</title>
-      <link>http://mikeneedsakidney.ca/posts/2025/sumis_story/</link>
+      <link>http://0.0.0.0:8000/posts/2025/sumis_story/</link>
       <pubDate>Sat, 28 Jun 2025 14:10:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/posts/2025/sumis_story/</guid>
+      <guid>http://0.0.0.0:8000/posts/2025/sumis_story/</guid>
       <description>&lt;p&gt;So, I asked an old curling buddy (yes, those exist) about his experiences with&#xA;kidney disease. He&amp;rsquo;s farther along than I am, having just had a transplant&#xA;(yay!), so clearly I can learn from his experience.&lt;/p&gt;&#xA;&lt;p&gt;He has gratiously permitted me to post this. I quote:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hi Mike and Maria,&lt;/p&gt;&#xA;&lt;p&gt;Feel free to use anything I&amp;rsquo;ve written in your blog posts or on Facebook. All&#xA;dates are rough, I am using My chart, but some of the data is really buried&#xA;and there isn&amp;rsquo;t a really good search engine on Mychart.&lt;/p&gt;</description>
     </item>
   </channel>

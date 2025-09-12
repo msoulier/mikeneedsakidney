@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mike needs a kidney</title>
-    <link>http://mikeneedsakidney.ca/tags/</link>
+    <link>http://0.0.0.0:8000/tags/</link>
     <description>Recent content in Tags on Mike needs a kidney</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 08 Jul 2025 19:28:46 -0400</lastBuildDate>
-    <atom:link href="http://mikeneedsakidney.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 20:45:53 -0400</lastBuildDate>
+    <atom:link href="http://0.0.0.0:8000/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Appointments</title>
-      <link>http://mikeneedsakidney.ca/tags/appointments/</link>
-      <pubDate>Tue, 08 Jul 2025 19:28:46 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/tags/appointments/</guid>
+      <title>Transplant</title>
+      <link>http://0.0.0.0:8000/tags/transplant/</link>
+      <pubDate>Thu, 11 Sep 2025 20:45:53 -0400</pubDate>
+      <guid>http://0.0.0.0:8000/tags/transplant/</guid>
       <description></description>
     </item>
     <item>
-      <title>Transplant</title>
-      <link>http://mikeneedsakidney.ca/tags/transplant/</link>
-      <pubDate>Sat, 28 Jun 2025 14:10:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/tags/transplant/</guid>
+      <title>Appointments</title>
+      <link>http://0.0.0.0:8000/tags/appointments/</link>
+      <pubDate>Tue, 08 Jul 2025 19:28:46 -0400</pubDate>
+      <guid>http://0.0.0.0:8000/tags/appointments/</guid>
       <description></description>
     </item>
     <item>
       <title>Donation</title>
-      <link>http://mikeneedsakidney.ca/tags/donation/</link>
+      <link>http://0.0.0.0:8000/tags/donation/</link>
       <pubDate>Mon, 02 Jun 2025 17:19:00 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/tags/donation/</guid>
+      <guid>http://0.0.0.0:8000/tags/donation/</guid>
       <description></description>
     </item>
     <item>
       <title>Dialysis</title>
-      <link>http://mikeneedsakidney.ca/tags/dialysis/</link>
+      <link>http://0.0.0.0:8000/tags/dialysis/</link>
       <pubDate>Tue, 13 May 2025 09:05:03 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/tags/dialysis/</guid>
+      <guid>http://0.0.0.0:8000/tags/dialysis/</guid>
       <description></description>
     </item>
   </channel>
