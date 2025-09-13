@@ -2,8 +2,6 @@ baseURL: http://mikeneedsakidney.ca/
 languageCode: en-ca
 title: Mike needs a kidney
 theme: ananke
-features:
-  - posts
 contentDir: content
 resourceDir: ../resources
 
@@ -29,6 +27,6 @@ params:
   background_color_class: bg-black
   custom_css: 
     - css/custom.css
-
+  mainSections: ["posts"]
   ananke:
     show_recent_posts: true
