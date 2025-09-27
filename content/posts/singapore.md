@@ -17,9 +17,9 @@ But now and then, a government gets something right. For example, in Singapore,
 organ donation is opt-out, not opt-in, like it should be. Here,
 [Check it out](https://www.moh.gov.sg/seeking-healthcare/organ-donation).
 
-    Organ transplantation in Singapore involves HOTA, which mandates organ donation
-    unless opted out, and MTERA, allowing anyone 18+ to pledge organs with next of
-    kin consent if not pledged.
+> Organ transplantation in Singapore involves HOTA, which mandates organ donation
+> unless opted out, and MTERA, allowing anyone 18+ to pledge organs with next of
+> kin consent if not pledged.
     
 I've said it before, I'll say it again. If you're dead, you don't need your
 organs anymore. This is just a no-brainer. Any religious ideas of "violating the
