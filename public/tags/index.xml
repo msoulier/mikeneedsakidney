@@ -6,8 +6,22 @@
     <description>Recent content in Tags on Mike needs a kidney</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 19:19:56 -0400</lastBuildDate>
     <atom:link href="http://mikeneedsakidney.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dialysis</title>
+      <link>http://mikeneedsakidney.ca/tags/dialysis/</link>
+      <pubDate>Sun, 05 Oct 2025 19:19:56 -0400</pubDate>
+      <guid>http://mikeneedsakidney.ca/tags/dialysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transplant</title>
+      <link>http://mikeneedsakidney.ca/tags/transplant/</link>
+      <pubDate>Sun, 05 Oct 2025 19:19:56 -0400</pubDate>
+      <guid>http://mikeneedsakidney.ca/tags/transplant/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Donation</title>
       <link>http://mikeneedsakidney.ca/tags/donation/</link>
@@ -16,24 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Transplant</title>
-      <link>http://mikeneedsakidney.ca/tags/transplant/</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://mikeneedsakidney.ca/tags/transplant/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Appointments</title>
       <link>http://mikeneedsakidney.ca/tags/appointments/</link>
       <pubDate>Tue, 08 Jul 2025 19:28:46 -0400</pubDate>
       <guid>http://mikeneedsakidney.ca/tags/appointments/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dialysis</title>
-      <link>http://mikeneedsakidney.ca/tags/dialysis/</link>
-      <pubDate>Tue, 13 May 2025 09:05:03 -0400</pubDate>
-      <guid>http://mikeneedsakidney.ca/tags/dialysis/</guid>
       <description></description>
     </item>
   </channel>
